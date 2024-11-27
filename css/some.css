@@ -1,0 +1,72 @@
+.searchbox{
+    width:70%;
+    height:5rem;
+    border-radius:60%;
+}
+
+.searchinput{
+    background-color: white;
+}
+
+.highlightparadiv{
+    display:flex;
+    line-height: 22px;
+    align-items: start;
+    justify-content: center;
+}
+
+.highlightpara{
+    font-size: medium;
+}
+
+.banner{
+    border:2px solid #22d9e3;
+}
+
+.innercontainerwhatsnew{
+    margin-right:13.5rem;
+}
+.innermostcontainer{
+    align-self: center;
+    line-height:2rem;
+    justify-content:center;
+}
+.innermostcontainer i{
+    font-size:1.9rem;
+    margin-left:2rem;
+}
+#cari{
+    margin-left:0.7rem;
+}
+.stari{
+    margin-left:0.9rem;
+}
+
+.buttonnew{
+    margin-left:2rem;
+    width:15rem;
+    height:3rem;
+}
+.buttonold{
+    width:18rem;
+    height:3.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.line-height{
+    line-height:0.8rem;
+}
+.line-height button{
+    position:absolute;
+    right:0;
+}
+.parabelow{
+    margin-right: 10rem;
+}
+.windowicon{
+    font-size: 2rem;
+    margin-left:2rem;
+}
